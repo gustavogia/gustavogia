@@ -4,13 +4,12 @@ Ingeniero Industrial recibido de la Universidad Tecnologica Nacional de Argentin
 ## Mis conocimientos Técnicos:
 
 ## Lenguajes de Programación:
-
-                          <img width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1LqIxTFFyjN54tij52-JTQKNBe51Z75HGDZU_bmk_Q&s">
+  <img width="100" height="100" src="https://www.freepnglogos.com/uploads/javascript/javascript-web-development-for-app-mobile-4.png">
                           
                           
 ## Tecnologias:
 
-<img widht="100" height="100"  alt= "react" src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png"> <img width="100" height="100" alt="firebase" src="https://keytotech.com/wp-content/uploads/2019/05/firebase.png">
+<img widht="100" height="100"  alt= "react" src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png"> <img width="100" height="100" alt="firebase" src="https://keytotech.com/wp-content/uploads/2019/05/firebase.png"> <img width="100" height="100" src="https://e7.pngegg.com/pngimages/353/697/png-clipart-node-js-javascript-front-and-back-ends-computer-software-others-miscellaneous-angle-thumbnail.png">
 
 
 <!--
