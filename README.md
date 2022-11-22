@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-< img width="100" height="100"  alt= "react" src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" >
+<img   alt= "react" src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png">
 <!--
 **gustavogia/gustavogia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
