@@ -1,8 +1,9 @@
 ### Hola 👋, soy Gustavo
 Ingeniero Industrial recibido de la Universidad Tecnologica Nacional de Argentina <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/67/UTN_logo.jpg"> y Full Stack Web Developer del bootcamp de programación Soy Henry <img width="25" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlnjnxlQufHJqu555uq7HkcA35Z9sNDN5HMN7CZTyIQ&s">. 
 
-Mi principal interes es seguir aumentando mis conocimientos, perfercionarme. Soy confiable y comprometido.
-
+Soy confiable y comprometido.
+Tengo habilidades en coordinación y desarrollo en equipos de trabajo.
+Trato siempre de perfeccionarme y adquirir nuevos conocimientos.
 
 
 
@@ -34,7 +35,7 @@ Mi principal interes es seguir aumentando mis conocimientos, perfercionarme. Soy
 📫   gustavogiarrusso@gmail.com
 
 
-<img width="15" height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNe9PDJQA4i-NFiWPY9VrOTyeJhO0v96u57g&usqp=CAU"> https://www.linkedin.com/in/gustavo-giarrusso-02960331/
+<img width="15" height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNe9PDJQA4i-NFiWPY9VrOTyeJhO0v96u57g&usqp=CAU"> [Gustavo Giarrusso](https://www.linkedin.com/in/gustavo-giarrusso-02960331/)
 
 <!--
 **gustavogia/gustavogia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
