@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+[react](https://sigdeletras.com/images/blog/202004_react_leaflet/react.png)
 <!--
 **gustavogia/gustavogia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[react](https://sigdeletras.com/images/blog/202004_react_leaflet/react.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
