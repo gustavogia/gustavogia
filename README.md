@@ -1,7 +1,7 @@
 ### Hola 👋, soy Gustavo
 Ingeniero Industrial recibido de la Universidad Tecnologica Nacional de Argentina <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/67/UTN_logo.jpg"> y Full Stack Web Developer del bootcamp de programación Soy Henry <img width="25" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlnjnxlQufHJqu555uq7HkcA35Z9sNDN5HMN7CZTyIQ&s">. Mi principal interes es seguir aumentando mis conocimientos. Soy confiable y comprometido.
 
-## Mis conocimientos Técnicos:
+### Mis conocimientos Técnicos:
 
 # Lenguajes de Programación:
   <img width="100" height="100" src="https://www.freepnglogos.com/uploads/javascript/javascript-web-development-for-app-mobile-4.png">
@@ -18,10 +18,10 @@ Ingeniero Industrial recibido de la Universidad Tecnologica Nacional de Argentin
 
 
 
-# 
-💬 Mi contacto:
+# 💬 Mi contacto:
 
 📫   gustavogiarrusso@gmail.com
+
 <img width="15" height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNe9PDJQA4i-NFiWPY9VrOTyeJhO0v96u57g&usqp=CAU"> https://www.linkedin.com/in/gustavo-giarrusso-02960331/
 
 <!--
